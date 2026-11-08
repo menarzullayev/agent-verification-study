@@ -1,0 +1,62 @@
+[
+ {
+  "case": "sample_1",
+  "kind": "task",
+  "problem_statement": "x + 12 = 20",
+  "final_answer": "8",
+  "message": "**Shart.** $x + 12 = 20$ tenglamani yeching.\n\nIkkala tomondan 12 ni ayiramiz.\n\nDemak $x = 20 - 12$ va $20 - 12 = 8$.\n\n## Javob\n\n$8$",
+  "chat_text": "<chat>\nNEW id=1 10:00 A: x + 12 = 20 ni yeching\n</chat>",
+  "images": [],
+  "language": "uz"
+ },
+ {
+  "case": "sample_2",
+  "kind": "task",
+  "problem_statement": "x + 7 = 31",
+  "final_answer": "24",
+  "message": "**Shart.** $x + 7 = 31$ tenglamani yeching.\n\nIkkala tomondan 7 ni ayiramiz.\n\nDemak $x = 31 - 7$ va $31 - 7 = 24$.\n\n## Javob\n\n$24$",
+  "chat_text": "<chat>\nNEW id=2 10:00 A: x + 7 = 31 ni yeching\n</chat>",
+  "images": [],
+  "language": "uz"
+ },
+ {
+  "case": "sample_3",
+  "kind": "task",
+  "problem_statement": "x + 15 = 48",
+  "final_answer": "33",
+  "message": "**Shart.** $x + 15 = 48$ tenglamani yeching.\n\nIkkala tomondan 15 ni ayiramiz.\n\nDemak $x = 48 - 15$ va $48 - 15 = 33$.\n\n## Javob\n\n$33$",
+  "chat_text": "<chat>\nNEW id=3 10:00 A: x + 15 = 48 ni yeching\n</chat>",
+  "images": [],
+  "language": "uz"
+ },
+ {
+  "case": "sample_4",
+  "kind": "task",
+  "problem_statement": "x + 23 = 60",
+  "final_answer": "37",
+  "message": "**Shart.** $x + 23 = 60$ tenglamani yeching.\n\nIkkala tomondan 23 ni ayiramiz.\n\nDemak $x = 60 - 23$ va $60 - 23 = 37$.\n\n## Javob\n\n$37$",
+  "chat_text": "<chat>\nNEW id=4 10:00 A: x + 23 = 60 ni yeching\n</chat>",
+  "images": [],
+  "language": "uz"
+ },
+ {
+  "case": "sample_5",
+  "kind": "task",
+  "problem_statement": "x + 9 = 54",
+  "final_answer": "45",
+  "message": "**Shart.** $x + 9 = 54$ tenglamani yeching.\n\nIkkala tomondan 9 ni ayiramiz.\n\nDemak $x = 54 - 9$ va $54 - 9 = 45$.\n\n## Javob\n\n$45$",
+  "chat_text": "<chat>\nNEW id=5 10:00 A: x + 9 = 54 ni yeching\n</chat>",
+  "images": [],
+  "language": "uz"
+ },
+ {
+  "case": "sample_6",
+  "kind": "task",
+  "problem_statement": "x + 18 = 75",
+  "final_answer": "57",
+  "message": "**Shart.** $x + 18 = 75$ tenglamani yeching.\n\nIkkala tomondan 18 ni ayiramiz.\n\nDemak $x = 75 - 18$ va $75 - 18 = 57$.\n\n## Javob\n\n$57$",
+  "chat_text": "<chat>\nNEW id=6 10:00 A: x + 18 = 75 ni yeching\n</chat>",
+  "images": [],
+  "language": "uz"
+ }
+]
