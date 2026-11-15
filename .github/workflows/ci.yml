@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   tests:
-    uses: menarzullayev/.github/.github/workflows/ci-python.yml@fix/ci-python-install
+    uses: menarzullayev/.github/.github/workflows/ci-python.yml@main
     with:
       python-version: "3.12"
       run-lint: false
